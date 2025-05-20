@@ -22,9 +22,9 @@ body {
 }
 
 .cmn-h2 {
-    font-size: 36px;
+    font-size: 37px;
     color: white;
-
+    
 }
 
 .cmn-span{
@@ -62,7 +62,6 @@ ul {
     padding: 14px 0;
     position: fixed;
     z-index: 99;
-    /* position: relative; */
     top: 0;
     left: 0;
     right: 0;
